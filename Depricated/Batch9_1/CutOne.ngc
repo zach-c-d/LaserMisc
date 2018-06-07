@@ -1,0 +1,13 @@
+G20 (Units are in Inches)
+F100
+G61 (Go to exact corners)
+G0 X0 Y2.7408
+M3 S1
+G1 X5.47964 Y2.7408 M62 P0
+G1 X5.47964 Y0.00196
+G1 X0 Y0.00196
+G1 X0 Y2.7408
+M5
+
+M5
+M30
