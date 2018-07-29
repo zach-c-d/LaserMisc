@@ -4,7 +4,7 @@
 (Using default header. To add your own header create file "header" in the output dir.)
 M3
 (Header end.)
-G21 (All units in mm)
+G20 (All units in inches)
 
 (Start cutting path id: path822)
 (Change tool to Default tool)
