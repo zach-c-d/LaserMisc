@@ -12,7 +12,7 @@
    viewBox="0 0 220.00001 250.00002"
    version="1.1"
    id="svg8"
-   sodipodi:docname="vial-tray-raiser.svg"
+   sodipodi:docname="vial-tray-spacer.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -71,7 +71,7 @@
       <path
          inkscape:connector-curvature="0"
          id="circle850"
-         d="m 204,169.07516 a 4.0751486,4.0751486 0 0 0 4.07515,-4.07515 A 4.0751486,4.0751486 0 0 0 204,160.92486 4.0751486,4.0751486 0 0 0 199.92485,165.00001 4.0751486,4.0751486 0 0 0 204,169.07516 Z"
+         d="m 204.16552,169.07516 a 4.0751486,4.0751486 0 0 0 4.07515,-4.07515 4.0751486,4.0751486 0 0 0 -4.07515,-4.07515 4.0751486,4.0751486 0 0 0 -4.07515,4.07515 4.0751486,4.0751486 0 0 0 4.07515,4.07515 z"
          style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.04970314;stroke-miterlimit:3.98765421;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
