@@ -23,7 +23,7 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="695"
+     inkscape:window-width="1017"
      inkscape:window-height="551"
      id="namedview10"
      showgrid="false"
@@ -73,9 +73,9 @@
        id="circle844"
        inkscape:connector-curvature="0" />
     <path
-       inkscape:connector-curvature="0"
-       id="path817"
-       d="m 204.4162,169.35091 a 4.3509011,4.3509011 0 0 0 4.35091,-4.3509 4.3509011,4.3509011 0 0 0 -4.35091,-4.3509 4.3509011,4.3509011 0 0 0 -4.3509,4.3509 4.3509011,4.3509011 0 0 0 4.3509,4.3509 z"
-       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0530664;stroke-miterlimit:3.98765421;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0530664;stroke-miterlimit:3.98765421;stroke-dasharray:none;stroke-opacity:1"
+       d="m 204.61482,169.35091 a 4.3509011,4.3509011 0 0 0 4.35091,-4.3509 4.3509011,4.3509011 0 0 0 -4.35091,-4.3509 4.3509011,4.3509011 0 0 0 -4.3509,4.3509 4.3509011,4.3509011 0 0 0 4.3509,4.3509 z"
+       id="path818"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
